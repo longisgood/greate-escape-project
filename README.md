@@ -7,3 +7,4 @@ Spring 팀 프로젝트
 마이페이지/관리자페이지 및 비회원 예약확인 기능
 
 member 패키지 안에 있는 기능 대다수 구현
+views 폴더 안의 member/admin/nomember 파트 디자인 밑 script 구현
